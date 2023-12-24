@@ -3,7 +3,7 @@
 <br>
 
 ## FLYAI docs 주소
-- https://flyai4-1.gitbook.io/docs/
+- [https://flyai4-1.gitbook.io/docs/](https://flyai4-1.gitbook.io/docs/)
   
 <br>
 
@@ -48,3 +48,4 @@
 - 팀원 공유
 
 
+<span style="background-color:#fff5b1">Author : robert-min / Last Update : 2023-12-24</span>
